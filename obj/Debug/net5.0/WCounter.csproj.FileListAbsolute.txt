@@ -1,0 +1,16 @@
+C:\Users\cspro\source\repos\WCounter\bin\Debug\net5.0\WCounter.exe
+C:\Users\cspro\source\repos\WCounter\bin\Debug\net5.0\WCounter.deps.json
+C:\Users\cspro\source\repos\WCounter\bin\Debug\net5.0\WCounter.runtimeconfig.json
+C:\Users\cspro\source\repos\WCounter\bin\Debug\net5.0\WCounter.runtimeconfig.dev.json
+C:\Users\cspro\source\repos\WCounter\bin\Debug\net5.0\WCounter.dll
+C:\Users\cspro\source\repos\WCounter\bin\Debug\net5.0\ref\WCounter.dll
+C:\Users\cspro\source\repos\WCounter\bin\Debug\net5.0\WCounter.pdb
+C:\Users\cspro\source\repos\WCounter\obj\Debug\net5.0\WCounter.csproj.AssemblyReference.cache
+C:\Users\cspro\source\repos\WCounter\obj\Debug\net5.0\WCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cspro\source\repos\WCounter\obj\Debug\net5.0\WCounter.AssemblyInfoInputs.cache
+C:\Users\cspro\source\repos\WCounter\obj\Debug\net5.0\WCounter.AssemblyInfo.cs
+C:\Users\cspro\source\repos\WCounter\obj\Debug\net5.0\WCounter.csproj.CoreCompileInputs.cache
+C:\Users\cspro\source\repos\WCounter\obj\Debug\net5.0\WCounter.dll
+C:\Users\cspro\source\repos\WCounter\obj\Debug\net5.0\ref\WCounter.dll
+C:\Users\cspro\source\repos\WCounter\obj\Debug\net5.0\WCounter.pdb
+C:\Users\cspro\source\repos\WCounter\obj\Debug\net5.0\WCounter.genruntimeconfig.cache

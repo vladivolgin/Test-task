@@ -1,0 +1,16 @@
+Напишите запросы, которые выведут:
+1.Cотрудника с максимальной заработной платой.
+SELECT Name FROM Employee
+Where Salary = (select MAX(Salary) from Employee); 
+2.Отдел, с самой высокой заработной платой между сотрудниками:
+SELECT Department
+FROM Employee
+WHERE Salary = (select MAX(Salary) from Employee); 
+3.Отдел, с максимальной суммарной зарплатой сотрудников. 
+SELECT Employee.Department, Sum(Employee.Salary) AS [Sum-Salary] FROM Employee GROUP BY Employee.Department
+HAVING Sum(Employee.Salary) >= ALL(
+SELECT Sum(Employee.Salary) AS [Sum-Salary] FROM Employee GROUP BY Employee.Department);
+4.Сотрудника, чье имя начинается на «Р» и заканчивается на «н».
+SELECT Employee.Name
+FROM Employee
+WHERE Name like 'Р*н';
