@@ -26,7 +26,7 @@ namespace WCounter
             return text.Split(' ');
         }
 
-        static int CountOfEncounters(string[] splText, string word)
+        static int CountOfEncounters(ref string[] splText, string word)
         {
             int countEnc = 0;
             foreach (var wrd in splText)
@@ -64,7 +64,7 @@ namespace WCounter
             foreach (var word in distWords)
             {
                 words.Add(new WordInfo(word));
-                words.Last().CountOfRepeat = CountOfEncounters(splitText, word);
+                words.Last().CountOfRepeat = CountOfEncounters(ref splitText, word);
             }
 
             words = words.OrderByDescending(x => x.CountOfRepeat).ToList();
