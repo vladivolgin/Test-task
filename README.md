@@ -1,3 +1,53 @@
 # Test-task
-В данном репозитории 
+В данном репозитории выполнено тестовое задание компании Digital Design.
+
+![image](https://user-images.githubusercontent.com/87894035/190894309-c912e174-c391-4ba4-8225-e47a1a000c8b.png)
+ 
+
 В качестве первого задания реализована база данных с двумя таблицами: сотрудники и отделение. 
+
+![image](https://user-images.githubusercontent.com/87894035/190894287-1eedfea9-5320-4ad7-ac6a-10feb74e6be6.png)
+
+Таблица Сотрудник:
+
+![image](https://user-images.githubusercontent.com/87894035/190894355-4a487b9f-be81-490c-bce6-7ad7816afae0.png)
+
+Таблица Отдел:
+
+![image](https://user-images.githubusercontent.com/87894035/190894400-0a683a46-8291-4720-a949-13adf2db3c20.png)
+
+Запрос сотрудника с наибольшей зарплатой:
+
+![image](https://user-images.githubusercontent.com/87894035/190894438-e3f383ec-489f-46c3-bb3c-29c71f24ef28.png)
+
+Выполнение запроса:
+
+![image](https://user-images.githubusercontent.com/87894035/190894445-668d154f-97ec-4245-a63b-15eacc660f4b.png)
+
+Запрос отдела, с самой высокой заработной платой между сотрудниками:
+
+![image](https://user-images.githubusercontent.com/87894035/190894527-fbd5087b-e195-4f41-b912-563546dca910.png)
+
+Выполнение запроса:
+
+![image](https://user-images.githubusercontent.com/87894035/190894545-af2eceda-c218-44a1-bae9-e3c081dac5a0.png)
+
+Запрос отдела, с максимальной сумарной зарплатой сотрудников :
+
+![image](https://user-images.githubusercontent.com/87894035/190894596-15f7a66c-69cc-47b7-811e-80962bc4b7e6.png)
+
+Выполнение запроса:
+
+![image](https://user-images.githubusercontent.com/87894035/190894612-31fb4527-e896-4e3c-bfd0-665cd62e61e6.png)
+
+Запрос сотрудника, чье имя начинается на <<Р>> и заканчивается на <<н>>.
+
+![image](https://user-images.githubusercontent.com/87894035/190894720-c7c52379-720f-4579-a774-df6ea0b779e8.png)
+
+Выполнение запроса:
+
+![image](https://user-images.githubusercontent.com/87894035/190894748-6cbf095a-02f8-4054-bd48-51032d7b0ee8.png)
+
+
+
+
