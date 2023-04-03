@@ -75,3 +75,4 @@ WHERE Name like 'Р*н';
 ![image](https://user-images.githubusercontent.com/87894035/190895257-0263acc4-f53a-4eb3-a23e-bb78db6a8c71.png)
 
 
+z
